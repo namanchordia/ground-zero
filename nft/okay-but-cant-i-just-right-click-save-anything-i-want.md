@@ -26,6 +26,8 @@ Not to mention, NFTs offer myriad utilities on top of them as well. They're scar
 
 {% embed url="https://twitter.com/Cooopahtroopa/status/1337906085139607552" %}
 
+{% embed url="https://twitter.com/naval/status/1470861425405050880?s=21" %}
+
 ## FAQs
 
 If you have any doubts related to this topic or you have a suggestion, feel free to create an issue [here](https://github.com/SuperteamDAO/ground-zero/issues).
